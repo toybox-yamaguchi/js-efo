@@ -1,0 +1,35 @@
+.efo-iconFalse, .efo-iconTrue
+{
+	display:inline-block;
+	margin:-4px 0 0 5px;padding:1px 10px;
+	vertical-align:middle;
+	color:#fff;
+	line-height:1.8;
+	font-size:55%;
+	font-style:normal;
+	border-radius:2px;
+	-moz-border-radius:2px;
+	-webkit-border-radius:2px;
+}
+
+.efo-iconFalse{
+	background-color:#c00;
+}
+
+.efo-iconTrue{
+	background-color: #1488e5;
+}
+
+.efo-inputFocus{
+	background-color:#fff;
+}
+
+.efo-inputError{
+	background-color:#fef;
+}
+
+.efo-error{
+	margin:10px 0;
+	color:#c00;
+	font-size:12px;
+}
